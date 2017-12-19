@@ -6,7 +6,7 @@ int main()
     scanf("%d",a);
     for(a=1;a<=5;a++)
     {
-        printf("\nhello");
+        printf("\nHello");
     }
 }
 
