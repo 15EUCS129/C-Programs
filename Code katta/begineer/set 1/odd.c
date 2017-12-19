@@ -6,12 +6,12 @@ int a;
 scanf("%d",&a);
 if(a%2==0)
 {
-printf(" number is even");
+printf("even");
 
 }
 else
 {
-printf(" number is odd");
+printf("odd");
 }
 
 }
