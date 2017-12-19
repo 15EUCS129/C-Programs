@@ -6,17 +6,17 @@ int a;
 scanf("%d",&a);
 if(a>0)
 {
-printf(" number is positive");
+printf("positive");
 
 }
 if(a<0)
 {
-printf(" number is negative");
+printf("negative");
 }
 if(a==0)
 {
 
-    printf("number is zero");
+    printf("zero");
 }
 
 }
